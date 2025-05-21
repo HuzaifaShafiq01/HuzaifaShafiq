@@ -1,19 +1,5 @@
-Hi, I'm Huzaifa Shafiq
-
-Data Analyst | SQL, Power BI, Excel, Python | Business Intelligence & Data-Driven Decisions
-
-🎓 BS IT (2020-2024) – Government College University Faisalabad (GCUF)
-
-Skills
-
-🔹 Excel
-
-🔹 Power BI , Tableau
-
-🔹 SQL, Python
-
-Get in Touch
-
+Hi, I’m Huzaifa Shafiq—a Data Analyst specializing in SQL, Power BI, Excel, and Python. I am passionate about business intelligence, data-driven decisions, and workflow automation to enhance efficiency and insights.
+🔹 Skills: SQL  Power BI  Excel  Tableau  Python
 📧 Email: huzaifashafiq493@gmail.com
-
 🔗 LinkedIn: www.linkedin.com/in/huzaifa-shafiq-data-analyst
+"Feel free to connect—I’m always open to discussing data analytics, visualization, and business intelligence solutions!"
