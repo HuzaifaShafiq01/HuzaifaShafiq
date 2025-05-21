@@ -1,6 +1,6 @@
 Hi, I'm Huzaifa Shafiq
 
-Data Analyst | Business Intelligence | Data Visualization
+Data Analyst | SQL, Power BI, Excel, Python | Transforming Data into Business Insights
 
 
 🎓 BS IT (2020-2024) – Government College University Faisalabad (GCUF)
@@ -17,4 +17,4 @@ Get in Touch
 
 📧 Email: huzaifashafiq493@gmail.com
 
-🔗 LinkedIn: www.linkedin.com/in/huzaifashafiq493
+🔗 LinkedIn: linkedin.com/in/huzaifa-shafiq-data-analyst
