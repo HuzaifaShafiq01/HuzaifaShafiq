@@ -1,7 +1,6 @@
 Hi, I'm Huzaifa Shafiq
 
-Data Analyst | SQL, Power BI, Excel, Python | Transforming Data into Business Insights
-
+Data Analyst | SQL, Power BI, Excel, Python | Business Intelligence & Data-Driven Decisions
 
 🎓 BS IT (2020-2024) – Government College University Faisalabad (GCUF)
 
