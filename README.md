@@ -17,4 +17,4 @@ Get in Touch
 
 📧 Email: huzaifashafiq493@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/huzaifa-shafiq-data-analyst
+🔗 LinkedIn: www.linkedin.com/in/huzaifa-shafiq-data-analyst
