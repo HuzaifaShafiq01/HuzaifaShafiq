@@ -7,11 +7,11 @@ Data Analyst | SQL, Power BI, Excel, Python | Transforming Data into Business In
 
 Skills
 
-🔹 Data Analysis: Python, SQL, R
+🔹 Excel
 
-🔹 Data Visualization: Power BI, Tableau, Excel
+🔹 Power BI , Tableau
 
-🔹 Business Intelligence: Turning data into actionable insights
+🔹 SQL, Python
 
 Get in Touch
 
